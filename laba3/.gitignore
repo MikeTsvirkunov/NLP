@@ -1,0 +1,8 @@
+eng_vocab.pkl
+rus_vocab.pkl
+w2v_eng.model
+w2v_eng.model.syn1neg.npy
+w2v_eng.model.wv.vectors.npy
+w2v_rus.model
+w2v_rus.model.syn1neg.npy
+w2v_rus.model.wv.vectors.npy
